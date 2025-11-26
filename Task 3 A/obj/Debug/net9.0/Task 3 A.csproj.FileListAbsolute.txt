@@ -1,0 +1,15 @@
+D:\web dev\workshop5\workshop5\Task 3 A\bin\Debug\net9.0\Task 3 A.exe
+D:\web dev\workshop5\workshop5\Task 3 A\bin\Debug\net9.0\Task 3 A.deps.json
+D:\web dev\workshop5\workshop5\Task 3 A\bin\Debug\net9.0\Task 3 A.runtimeconfig.json
+D:\web dev\workshop5\workshop5\Task 3 A\bin\Debug\net9.0\Task 3 A.dll
+D:\web dev\workshop5\workshop5\Task 3 A\bin\Debug\net9.0\Task 3 A.pdb
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\Task 3 A.GeneratedMSBuildEditorConfig.editorconfig
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\Task 3 A.AssemblyInfoInputs.cache
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\Task 3 A.AssemblyInfo.cs
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\Task 3 A.csproj.CoreCompileInputs.cache
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\Task 3 A.sourcelink.json
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\Task 3 A.dll
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\refint\Task 3 A.dll
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\Task 3 A.pdb
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\Task 3 A.genruntimeconfig.cache
+D:\web dev\workshop5\workshop5\Task 3 A\obj\Debug\net9.0\ref\Task 3 A.dll
