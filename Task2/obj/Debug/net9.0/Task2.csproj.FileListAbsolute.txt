@@ -1,0 +1,15 @@
+D:\web dev\workshop5\workshop5\Task2\bin\Debug\net9.0\Task2.exe
+D:\web dev\workshop5\workshop5\Task2\bin\Debug\net9.0\Task2.deps.json
+D:\web dev\workshop5\workshop5\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+D:\web dev\workshop5\workshop5\Task2\bin\Debug\net9.0\Task2.dll
+D:\web dev\workshop5\workshop5\Task2\bin\Debug\net9.0\Task2.pdb
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\Task2.sourcelink.json
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\Task2.dll
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\refint\Task2.dll
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\Task2.pdb
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+D:\web dev\workshop5\workshop5\Task2\obj\Debug\net9.0\ref\Task2.dll
