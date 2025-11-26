@@ -1,4 +1,6 @@
-﻿namespace Task_3_A
+﻿using Task3B;
+
+namespace Task_3_A
 {
     class Program
     {
@@ -9,6 +11,23 @@
             printer.Print("hello there how are you");
             printer.Print(122333);
             printer.Print("application", 5);
+
+
+            Console.WriteLine("\n \n These are the infos of the Nepali and English teacher.");
+            NepaliTeacher nepali = new NepaliTeacher();
+            EnglishTeacher english = new EnglishTeacher();
+
+            nepali.Name = "Ram";
+            Console.WriteLine("Nepali Teacher:" + nepali.Name);
+            nepali.Teaching();
+            nepali.SalaryInfo();
+
+            Console.WriteLine();
+
+            english.Name = "Rohan";
+            Console.WriteLine("English Teacher:" + english.Name);
+            english.Teaching();
+            english.SalaryInfo();
         }
     }
 }
